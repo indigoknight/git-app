@@ -54,6 +54,11 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'pry-rails'
+<<<<<<< HEAD
 
 gem 'devise'
 gem 'pry-rails'
+=======
+gem 'devise'
+
+>>>>>>> 5220a98a4ec211da070403a7325bfa8cc7138729
